@@ -1,0 +1,112 @@
+{
+    "total": 20,
+    "questions": [
+        {
+            "qID" : "Q1",
+            "difficulty": "easy",
+            "marks": 1
+        },
+        {
+            "qID" : "Q2",
+            "difficulty": "hard",
+            "marks": 2
+        },
+        {
+            "qID" : "Q3",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "qID" : "Q4",
+            "difficulty": "medium",
+            "marks": 1
+        },
+        {
+            "qID" : "Q5",
+            "difficulty": "medium",
+            "marks": 2
+        },
+        {
+            "qID" : "Q6",
+            "difficulty": "easy",
+            "marks": 3
+        },
+        {
+            "qID" : "Q7",
+            "difficulty": "medium",
+            "marks": 2
+        },
+        {
+            "qID" : "Q8",
+            "difficulty": "easy",
+            "marks": 1
+        },
+        {
+            "qID" : "Q9",
+            "difficulty": "medium",
+            "marks": 4
+        },
+        {
+            "qID" : "Q10",
+            "difficulty": "hard",
+            "marks": 3
+        },
+        {
+            "qID" : "Q11",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "qID" : "Q12",
+            "difficulty": "hard",
+            "marks": 5
+        },
+        {
+            "qID" : "Q13",
+            "difficulty": "hard",
+            "marks": 1
+        },
+        {
+            "qID" : "Q14",
+            "difficulty": "hard",
+            "marks": 3
+        },
+        {
+            "qID" : "Q15",
+            "difficulty": "hard",
+            "marks": 6
+        },
+        {
+            "qID" : "Q16",
+            "difficulty": "medium",
+            "marks": 2
+        },
+        {
+            "qID" : "Q17",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "qID" : "Q18",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "qID" : "Q19",
+            "difficulty": "medium",
+            "marks": 4
+        },
+        {
+            "qID" : "Q20",
+            "difficulty": "easy",
+            "marks": 4
+        }
+
+    ],
+    "maxMarks": 20,
+    "level": {
+        "easy": 30,
+        "medium": 30,
+        "hard": 40
+    }
+}
